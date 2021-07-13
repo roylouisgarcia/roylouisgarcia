@@ -15,5 +15,6 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-TEST
+- 🌱 I’m currently learning Computer Security and DevOps...
+
 
