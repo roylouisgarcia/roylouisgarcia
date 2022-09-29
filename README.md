@@ -1,17 +1,17 @@
 <h1 align="center">Hi 👋, I'm Roy Louis Garcia</h1>
 <h3 align="center">A perpetual learner of technology and a developer aiming to paint a better world</h3>
 
-- 🌱 I’m currently learning **Lean, Agile, DevOps, Cloud Computing, Kubernetes, etc.**
+- 🌱 I’m currently learning **Deep Learning/ML/AI, Lean/Agile/DevOps, AWS, Google and IBM Cloud Computing, etc.**
 
 - 👨‍💻 All of my projects are available at [https://roylouisgarcia.github.io/portfolio/](https://roylouisgarcia.github.io/portfolio/)
 
-- 📝 I regularly write articles on [https://roylouisgarcia.github.io/](https://roylouisgarcia.github.io/)
+- 📝 I have a blog on [https://roylouisgarcia.github.io/](https://roylouisgarcia.github.io/) and will be uploading more about what I had been doing lately
 
-- 💬 Ask me about **Linux, Bash,**
+- 💬 Ask me about **Machine Learning, Natural Language Processing, Radiohead, Linux, Bash, Python, Computer Security, **
 
-- 📫 How to reach me **roygarcia201@gmail.com**
+- 📫 How to reach me **roygarcia201@outlook.com**
 
-- ⚡ Fun fact **I love Radiohead**
+- ⚡ Fun fact **I love Radiohead** and creating my own music
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
