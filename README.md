@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Roy Louis Garcia</h1>
 <h3 align="center">A perpetual learner of technology and a developer aiming to paint a better world</h3>
 
-- 🌱 I’m currently learning **Deep Learning/ML/AI, Lean/Agile/DevOps, AWS, Google and IBM Cloud Computing, etc.**
+- 🌱 My repos and projects involve: **Deep Learning/ML/AI, Lean/Agile/DevOps, AWS, Google and IBM Cloud Computing, etc.**
 
 - 👨‍💻 All of my projects are available at [https://roylouisgarcia.github.io/portfolio/](https://roylouisgarcia.github.io/portfolio/)
 
@@ -9,13 +9,13 @@
 
 - 💬 Ask me about **Machine Learning, Natural Language Processing, Radiohead, Linux, Bash, Python, Computer Security, **
 
-- 📫 How to reach me **roygarcia201@outlook.com**
+- 📫 Visit [DMSecurityX.com](https://dmsecurityx.com/)
 
-- ⚡ Fun fact **I love Radiohead** and creating my own music
+- ⚡ Fun fact **I love Radiohead** and creating my own music. You can hear samples of my compositions [here](https://dmsecurityx.com/recordedbliss/)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://twitter.com/roydevlouis" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="roydevlouis" height="30" width="40" /></a>
+<a href="https://twitter.com/dmsecurityx" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="roydevlouis" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/roylouisgarcia" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="roylouisgarcia" height="30" width="40" /></a>
 </p>
 
