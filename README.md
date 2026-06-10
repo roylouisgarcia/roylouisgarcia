@@ -3,15 +3,15 @@
 
 - 🌱 My repos and projects involve: **Deep Learning/ML/AI, Lean/Agile/DevOps, AWS, Google and IBM Cloud Computing, etc.**
 
-- 👨‍💻 All of my projects are available at [https://roylouisgarcia.github.io/portfolio/](https://roy.deliberatelearners.com/)
+- 👨‍💻 All of my projects are available at [https://roy.deliberatelearners.com](https://roy.deliberatelearners.com/)
 
-- 📝 I have a blog on [https://roylouisgarcia.github.io/](https://blog.deliberatecybersecurity.com/) and will be uploading more about what I had been doing lately
+- 📝 I have a blog on [https://blog.deliberatecybersecurity.com/](https://blog.deliberatecybersecurity.com/) and will be uploading more about what I had been doing lately
 
 - 💬 Ask me about **Machine Learning, Natural Language Processing, Radiohead, Linux, Bash, Python, Computer Security, **
 
 - 📫 Visit [DMSecurityX.com](https://dmsecurityx.com/)
 
-- ⚡ Fun fact **I love Radiohead** and creating my own music. You can hear samples of my compositions [here](https://wwww.recordedbliss.com)
+- ⚡ Fun fact **I love Radiohead** and creating my own music. You can hear samples of my compositions [Recordedbliss.com](https://wwww.recordedbliss.com)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
