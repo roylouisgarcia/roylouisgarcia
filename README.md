@@ -3,11 +3,11 @@
 
 - 🌱 My repos and projects involve: **Deep Learning/ML/AI, Lean/Agile/DevOps, AWS, Google and IBM Cloud Computing, etc.**
 
-- 👨‍💻 All of my projects are available at [https://roy.deliberatelearners.com](https://roy.deliberatelearners.com/)
+- 👨‍💻 A list of my completed MOOC certificates/courses and the projects I created are available at [https://roy.deliberatelearners.com](https://roy.deliberatelearners.com/)
 
-- 📝 I have a blog on [https://blog.deliberatecybersecurity.com/](https://blog.deliberatecybersecurity.com/) and will be uploading more about what I had been doing lately
+- 📝 I have a cybersecurity blog on [https://blog.deliberatecybersecurity.com/](https://blog.deliberatecybersecurity.com/) and a personal, fun blog @ [https://nostradmsx.com](https://nostradmsx.com)
 
-- 💬 Ask me about **Machine Learning, Natural Language Processing, Radiohead, Linux, Bash, Python, Computer Security, **
+- 💬 Ask me about **Tech, Learning, MOOCs, Radiohead, Linux, Bash, Python, Computer Security, **
 
 - 📫 Visit [DMSecurityX.com](https://dmsecurityx.com/)
 
